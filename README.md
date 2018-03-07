@@ -1,2 +1,4 @@
 # hello-world
-Intro to coding
+New to coding, here it goes!
+
+First steps...
